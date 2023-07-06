@@ -1,7 +1,5 @@
 # Bloc 4 - Analyse prédictive de données non-structurées par l'intelligence artificielle - AT&T spam detector
 
-[Presentation video](https://share.vidyard.com/watch/9vUQexZpYauPQs8NXy6suB?)
-
 ### Introduction
 
 AT&T Inc. is an American multinational telecommunications holding company, whose history started in 1878 with the foundation of the American District Telegraph Company. It is now the world's third largest telecommunications company by revenue. It is also the third largest provider of mobile phone services in the United States of America.
